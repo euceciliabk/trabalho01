@@ -20,12 +20,8 @@ Pedro Henrique de Carvalho Scaramussa Luz:ordepesnyc@gmail.com<br>
 ## Marco de Entrega 01 em: (06/05/2019)<br>
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-Neste ponto a codificação não e necessária, somente as ideias de telas devem ser desenvolvidas. O princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas e/ou descartadas <br>
 
-Sugestão: https://balsamiq.com/products/mockups/<br>
-
-![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
-![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](https://github.com/euceciliabk/trabalho01/blob/master/Colors%20Company%202%20-%20PDF.pdf?raw=true "Empresa Devcom")
+![Arquivo PDF do Protótipo Balsamiq feito para Colors Company](https://github.com/euceciliabk/trabalho01/blob/master/Colors%20Company%202%20-%20PDF.pdf?raw=true "Colors Company")
 
 ## Marco de Entrega 02 em: (08/05/2019)<br>
 
