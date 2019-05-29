@@ -7,7 +7,7 @@ Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
 Integrantes do grupo<br>
 Cecília Bastazini Kröebel:cecilia.bastazini.k@gmail.com<br>
 Pedro Henrique de Carvalho Scaramussa Luz:ordepesnyc@gmail.com<br>
-...
+
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
 > A "Colors Company" visa colaborar com desenvolvimento de projetos para uma sociedade mais consciente e cuidadosa com o meio-ambiente. Sabendo-se da necessidade da separação do lixo corretamente, para que assim, os processos que envolvem reciclagem possam ser realizados da melhor forma possível, e visando reunir as informações relativas a tipo, nome e material do produto, e nome, tipo, localização e capacidade das lixeiras em um mesmo local, ficamos motivados com o desenvolvimento deste sistema. O Sistema "Colors Company" tem como objetivo gerenciar todas as informações para que um conjunto de lixeiras da coleta seletiva localizadas nos campi do Ifes, seja capaz de informar ao usuário em qual lixeira deve depositar o material que deseja descartar. Para realizar suas operações adequadamente a empresa necessita que o sistema armazene informações relativas aos materiais que serão descartados, lixeiras e usuários.
